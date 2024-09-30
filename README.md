@@ -8,15 +8,17 @@
 
 ### Dataset
 - We utilized the "Estimation of Obesity Levels Based on Eating Habits and Physical Condition" dataset from the UCI Machine Learning Repository
-- This dataset contains 2,111 records with various features related to eating habits, physical condition, and demographic information.Data Processing
+- This dataset contains 2,111 records with various features related to eating habits, physical condition, and demographic information.
 
-### Extraction and Cleaning
+### Data Processing
+
+#### Extraction and Cleaning
 - We employed a Jupyter notebook to extract, clean, and transform the dataset. The process involved:Dropping null values using dropna()
 - Encoding categorical variables into numerical format
 - Splitting the data into training and testing sets
 - The cleaned data was saved as CSV files for further analysis
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 - Initial data exploration was conducted to understand:
   1. Feature distributions
   2. Correlations between variables
