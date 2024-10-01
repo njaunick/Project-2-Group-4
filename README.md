@@ -13,7 +13,8 @@
 ### Data Processing
 
 #### Extraction and Cleaning
-- We employed a Jupyter notebook to extract, clean, and transform the dataset. The process involved:Dropping null values using dropna()
+- We employed a Jupyter notebook to extract, clean, and transform the dataset. The process involved:
+- Dropping null values using dropna()
 - Encoding categorical variables into numerical format
 - Splitting the data into training and testing sets
 - The cleaned data was saved as CSV files for further analysis
