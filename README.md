@@ -53,3 +53,6 @@ The Random Forest model with tuned hyperparameters achieved the best performance
 - Precision: 96%
 - Recall: 97%
 - F1-Score: 98%
+- The feature importance determined by the Random Forest model found that the two most influential features were Weight and Height at 0.3548879023541114 and 0.10334155896744777, respectively.
+  1. The Body Mass Index (BMI) categorizes a person based on their Height and Weight
+
