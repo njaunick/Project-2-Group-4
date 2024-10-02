@@ -1,4 +1,4 @@
-# Project-2-Group-4
+# Project-2-Group-4-(Symia Woodson, Laquita Palmer, Wanda Knight and Nickson Njau)
 
 ## Estimating Obesity Levels from Eating Habits and Physical Activity
 
