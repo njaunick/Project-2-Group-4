@@ -55,6 +55,16 @@ The Random Forest model with tuned hyperparameters achieved the best performance
 - F1-Score: 98%
 - The feature importance determined by the Random Forest model found that the two most influential features were Weight and Height at 0.3548879023541114 and 0.10334155896744777, respectively.
   1. The Body Mass Index (BMI) categorizes a person based on their Height and Weight. From the scatter plot of each height and weight combination, it is clear that the weight classification has their own regions. The linear regression is shown in the red lines for each region.
+     
+    |Classification      | Encoded Classification|
+    |--------------------|:---------------------:|
+    |Insufficient_Weight |                      0|
+    |Normal_Weight       |                      1|
+    |Overweight_Level_I  |                      2|
+    |Overweight_Level_II |                      3|
+    |Obesity_Type_I      |                      4|
+    |Obesity_Type_II     |                      5|
+    |Obesity_Type_III    |                      6|
 
      ![image](https://github.com/user-attachments/assets/4e7e5763-1321-40d9-a752-c00cd54a043a)
 
